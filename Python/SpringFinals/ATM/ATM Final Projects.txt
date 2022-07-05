@@ -1,0 +1,2 @@
+﻿* There are only six operations that the ATM can carry out: 
+   * Transfer Balance
